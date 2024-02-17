@@ -5,4 +5,4 @@ print(tatabox_seq)
 print(type(tatabox_seq))
 # <class 'Bio.Seq.Seq'>
 print(dir(Seq))
-print(help(Seq))
+# print(help(Seq))
